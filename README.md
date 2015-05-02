@@ -15,4 +15,4 @@ Please also consider making a [donation](http://www.sebastiendumont.com/donation
 ### More information
 * Other [WordPress plugins](http://profiles.wordpress.org/sebd86/) by [Sébastien Dumont](http://www.sebastiendumont.com/)
 * Contact Sebastien on Twitter: [@sebsstudio](http://twitter.com/sebsstudio)
-* If you're a developer yourself, follow or contribute to the [WooCommerce My Licences plugin on GitHub](https://github.com/Sebs-Studio/WooCommerce-Customer-Notes-to-Completed-Order-Emails)
+* If you're a developer yourself, follow or contribute to the [WooCommerce Customer Notes To Completed Order Emails plugin on GitHub](https://github.com/Sebs-Studio/WooCommerce-Customer-Notes-to-Completed-Order-Emails)
