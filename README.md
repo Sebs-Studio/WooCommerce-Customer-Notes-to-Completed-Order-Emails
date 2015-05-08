@@ -1,5 +1,7 @@
 ## WooCommerce Customer Notes To Completed Order Emails
 
+[![Designed for WooCommerce](http://img.shields.io/badge/Designed%20for-WooCommerce-a46497.svg?style=flat)](http://woothemes.com/woocommerce/) [![GitHub license](https://img.shields.io/badge/license-GPLv3-blue.svg?style=flat)](https://raw.githubusercontent.com/Sebs-Studio/WooCommerce-Customer-Notes-to-Completed-Order-Emails/master/license.txt) [![GitHub release](https://img.shields.io/github/release/qubyte/rubidium.svg?style=flat)](https://github.com/Sebs-Studio/WooCommerce-Customer-Notes-to-Completed-Order-Emails) [![Code Climate](https://codeclimate.com/github/Sebs-Studio/WooCommerce-Customer-Notes-to-Completed-Order-Emails/badges/gpa.svg?style=flat)](https://codeclimate.com/github/Sebs-Studio/WooCommerce-Customer-Notes-to-Completed-Order-Emails)
+
 WooCommerce Customer Notes To Completed Order Emails simply adds the customer notes to the completed order email.
 
 ### Contributing and reporting bugs =
@@ -13,6 +15,5 @@ If you need help with customization. Please consider [hiring me](http://www.seba
 Please also consider making a [donation](http://www.sebastiendumont.com/donation/) or [write a review](https://wordpress.org/support/view/plugin-reviews/woocommerce-customer-notes-to-completed-order-emails?rate=5#postform).
 
 ### More information
-* Other [WordPress plugins](http://profiles.wordpress.org/sebd86/) by [Sébastien Dumont](http://www.sebastiendumont.com/)
+* Other [WordPress plugins](http://profiles.wordpress.org/sebsstudio/) by [Sebs Studio](http://www.sebs-studio.com/)
 * Contact Sebastien on Twitter: [@sebsstudio](http://twitter.com/sebsstudio)
-* If you're a developer yourself, follow or contribute to the [WooCommerce Customer Notes To Completed Order Emails plugin on GitHub](https://github.com/Sebs-Studio/WooCommerce-Customer-Notes-to-Completed-Order-Emails)
